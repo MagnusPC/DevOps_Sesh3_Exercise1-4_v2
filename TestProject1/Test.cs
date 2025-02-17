@@ -1,7 +1,7 @@
 ﻿using SimpleApp;
 using Xunit;
 
-namespace SimpleAppTests
+namespace SimpleAppTest
 {
     public class ProgramTests
     {
